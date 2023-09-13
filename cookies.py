@@ -1,5 +1,4 @@
 import requests
-import BeautifulSoup as bs
 
 class FacebookBot:
     def __init__(self, token):
