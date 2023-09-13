@@ -1,7 +1,5 @@
-import telebot
-from telebot import types
 import requests
-from bs4 import BeautifulSoup as bs
+import BeautifulSoup as bs
 
 class FacebookBot:
     def __init__(self, token):
