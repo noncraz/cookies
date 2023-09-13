@@ -28,11 +28,11 @@ def azz():
     azro = (f"""{C} 
     {Z} < Extract Cookies >
     {F}ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
-    {B} {B}مبرمج الاداه < @tools_vip >
-   < @AA4AA4AA4 > 
+    {B} {B} channel < @tools_vip >
+   < @ittz_danyar > 
     {Z}------------------------
     
-    {B}  {B}@IIIIIIIIIIII> معرف قناتي 
+    {B}  {B}$10> $10 tool
     {F}┗━━━━━━━━━━━━━━━━━━━━""")
     for azr in azro.splitlines():
         time.sleep(0.05)
